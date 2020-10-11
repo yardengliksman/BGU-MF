@@ -1,0 +1,113 @@
+.box{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+.box p{
+    margin-left: 10px;
+}
+.box div{
+    padding-bottom: 10px;
+}
+input {
+    text-align: center;
+    width: 100px;
+}
+
+.box #errors{
+    width: 300px;
+    margin:10px auto;
+    visibility: hidden;
+}
+
+.box #message{
+    width: 300px;
+    margin:10px auto;
+    visibility: hidden;
+}
+
+.error_input{
+    border: red solid 2px;
+}
+
+table, th{
+    background-color: #f1f1f1;
+}
+table, th , td  {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 10px;
+}
+table tr:nth-child(odd)    {
+    background-color: #f1f1f1;
+}
+
+table tr:nth-child(even) {
+    background-color: #ffffff;
+}
+
+
+.empty{
+    border: red solid 3px;
+}
+
+
+#parent{
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#page{
+    background-color: #ffffff;
+    display: none;
+} 
+
+.inst{
+    background-color: #ffffff;
+    display: none;
+} 
+
+
+#inst{
+    margin: 50px;
+    font-size: 200%;
+}
+
+#changeit{
+    text-align: center;
+    font-size: 1000%;
+}
+
+#inp{
+    font-size: 300%;
+}
+
+#send{
+    font-size: 300%;
+    margin-bottom: 20px;
+}
+
+.img {
+    border-style: solid;
+    border-width: 5px;
+}
+
+.results{
+    padding: 10px;
+}
+
+.results th{
+    padding: 10px;
+}
+
+.right_answer td{
+    background-color: greenyellow;
+}
+.wrong_answer td{
+    background-color: red;
+}
