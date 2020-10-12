@@ -9,4 +9,4 @@ Instructions for participants: "answer as accurately and quickly as possible".
 
 Citation:
 
-Gliksman, Y., Berebi, S., Hershman, R., & Henik, A. (2020). BGU-MF: Ben-Gurion University Math Fluency Test. Manuscript under review.
+Gliksman, Y., Berebbi, S., Hershman, R., & Henik, A. (2020). BGU-MF: Ben-Gurion University Math Fluency Test. Manuscript under review.
