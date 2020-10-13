@@ -13,15 +13,14 @@ Instructions for using the BGU-MF test
 Add new participant – 
 Use this link - https://yardengliksman.github.io/BGU-MF/
 
-After "BGU-MF/", add the participant nickname (e.g., participat1). Notice that if you do more than one session for each participant, you should give different nickname for the same participants.
-
 Adjustment of the BGU-MF test-  
 You may adjust the BGU-MF per session, regarding the operations and the difficulty level of the exercises that will include in the session. Additionally, you can adjust whether the operator zero will include.
 The parameters to adjust:
-Parameter	Shortcut in Code	Levels	Defaults
-Addition	add	0: without
-1: exercises up to 10
-2: exercises up to 20	2
+Parameter |	Shortcut in Code |Levels                   |Defaults|
+----------|----------------------|-------------------------|--------|
+Addition  |	add	         |0: without
+                                  1: exercises up to 10
+				  2: exercises up to 20	   |  2
 Subtraction	sub	0: without
 1: exercises up to 10
 2: exercises up to 20	2
