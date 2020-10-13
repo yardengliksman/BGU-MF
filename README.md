@@ -16,34 +16,24 @@ Use this link - https://yardengliksman.github.io/BGU-MF/
 Adjustment of the BGU-MF test-  
 You may adjust the BGU-MF per session, regarding the operations and the difficulty level of the exercises that will include in the session. Additionally, you can adjust whether the operator zero will include.
 The parameters to adjust:
-Parameter |	Shortcut in Code |Levels                   |Defaults|
-----------|----------------------|-------------------------|--------|
-Addition  |	add	         |0: without; 1: exercises up to 10
-				  2: exercises up to 20	
-                                     |  2
-Subtraction	sub	0: without
-1: exercises up to 10
-2: exercises up to 20	2
-Multiplication	mult	0: without
-1: exercises up to 5 X 5
-2: exercises up to 10 X 10	2
-Division	div	0: without
-1: exercises up to 5 X 5
-2: exercises up to 10 X 10	2
-Zero	Zero	0: without
-1: include
-	1
-Timer	timer	Length of the session	180 sec
+Parameter     |	Shortcut in Code    |Levels                                                              |Defaults|
+--------------|---------------------|--------------------------------------------------------------------|--------|
+Addition      |	add	            |0: without; 1: exercises up to 10; 2: exercises up to 20            |  2     |
+Subtraction   |	sub	            |0: without; 1: exercises up to 10; 2: exercises up to 20            |  2     |
+Multiplication|	mult                |0: without; 1: exercises up to 5 X 5; 2: exercises up to 10 X 10    |  2     |
+Division      | div	            |0: without; 1: exercises up to 5 X 5;2: exercises up to 10 X 10	 |  2     |
+Zero          | Zero                |0: without; 1: include                                              |  1     |
+Timer	      | timer	            |Length of the session	                                         |180 sec |
 
 In order to adjust these parameters, after the participant nickname, add the sign "&" and the shortcut of the parameter. Then, add the number of difficulty level.
 
 Template-
-- https://yardengliksman.github.io/BGU-MF/=[Nickname]&add=[level]&sub=[level]&mult=[level]&div=[level]&zeros=[level].
+- https://yardengliksman.github.io/BGU-MF/=&add=[level]&sub=[level]&mult=[level]&div=[level]&zeros=[level].
 
 There no need to write [], just the relevant values.
 
 Example- 
-- https://yardengliksman.github.io/BGU-MF/=Participant1&add=2&sub=2&mult=1&div=0&zeros=1. 
+- https://yardengliksman.github.io/BGU-MF/=&add=2&sub=2&mult=1&div=0&zeros=1. 
 In the presents example, the session for participant 1 will include addition and subtraction exercises up to 20, multiplication exercises up to 5 X 5, and with no division exercises. The exercises will include the operator zero (e.g., 4 X 0). 
 
 Output-
