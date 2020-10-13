@@ -7,7 +7,9 @@ The BGU-MF test is a computerized math fluency test. The test includes simple ma
 
 
 Instructions for using the BGU-MF test
-Add new participant – Use this link - https://yardengliksman.github.io/BGU-MF/
+
+Add new participant – 
+Use this link - https://yardengliksman.github.io/BGU-MF/
 
 After "BGU-MF/", add the participant nickname (e.g., participat1). Notice that if you do more than one session for each participant, you should give different nickname for the same participants.
 
