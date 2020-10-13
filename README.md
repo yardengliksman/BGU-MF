@@ -33,6 +33,7 @@ Zero	Zero	0: without
 Timer	timer	Length of the session	180 sec
 
 In order to adjust these parameters, after the participant nickname, add the sign "&" and the shortcut of the parameter. Then, add the number of difficulty level.
+
 Template-
 - https://yardengliksman.github.io/BGU-MF/=[Nickname]&add=[level]&sub=[level]&mult=[level]&div=[level]&zeros=[level].
 
@@ -52,10 +53,6 @@ The output per participant included 8 basic variables –
 -	Time to complete response (i.e. time to click enter) - The time that pass between the time the exercise appeared until the time that the participant clicks enter button (in second).
 -	Participant response – Participants’ answer.
 -	Correct response – rather his answer was right ("1") or wrong ("0").
-
-
-
-
 
 Example for the default version of the test can be found here: yardengliksman.github.io/BGU-MF/
 
