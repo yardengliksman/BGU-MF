@@ -37,7 +37,7 @@ In the presents example, the session for participant 1 will include addition and
 
 **Output-**
 The output per participant included these following variables – 
--	the serial number of presented exerxise.
+-	the serial number of presented exercise.
 -	Problem – The exercise presented in the trial.
 -	Participant response – Participants’ answer.
 -	Correct response – whether the answer was correct (yesy - line mark in green) or incorrect (no - line mark in red).
