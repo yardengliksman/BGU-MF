@@ -36,8 +36,8 @@ There no need to write [], just the relevant values.
 In the presents example, the session for participant 1 will include addition and subtraction exercises up to 20, multiplication exercises up to 5 X 5, and with no division exercises. The exercises will include the operator zero (e.g., 4 X 0). 
 
 **Output-**
-The output per participant included 8 basic variables – 
--	# - the serial number of presented exerxise.
+The output per participant included these following variables – 
+-	the serial number of presented exerxise.
 -	Problem – The exercise presented in the trial.
 -	Participant response – Participants’ answer.
 -	Correct response – whether the answer was correct (yesy - line mark in green) or incorrect (no - line mark in red).
