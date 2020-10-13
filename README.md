@@ -18,9 +18,9 @@ You may adjust the BGU-MF per session, regarding the operations and the difficul
 The parameters to adjust:
 Parameter |	Shortcut in Code |Levels                   |Defaults|
 ----------|----------------------|-------------------------|--------|
-Addition  |	add	         |0: without
-                                  1: exercises up to 10
-				  2: exercises up to 20	   |  2
+Addition  |	add	         |0: without; 1: exercises up to 10
+				  2: exercises up to 20	
+                                     |  2
 Subtraction	sub	0: without
 1: exercises up to 10
 2: exercises up to 20	2
