@@ -186,7 +186,7 @@ function mult_and_frec(level, frec)
             return mult_and_frec(level, frec);
         if(first*second === 0)
         {
-            statement['statement_str']  = (first*second)+':'+Math.max(first, second);
+            statement['statement_str']  = (first*second)+'÷'+Math.max(first, second);
             statement['value']          = first*second/Math.max(first,second);
             return statement;
         }
