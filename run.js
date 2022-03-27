@@ -268,7 +268,7 @@ function send_answer()
 }
 
 function send_respons(stt, ret, set){
-    const answer    = $('#inp').val().match(/(\d+)/);
+    const answer    = $('#inp').val().trim();
     const result    = $('#res').val();
     answers[num_of_trials]['answer']    = answer;
     answers[num_of_trials]['accurate']  = result===answer;
