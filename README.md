@@ -53,10 +53,12 @@ The output per participant included these following variables –
 - Number of correct responses out of total number of exercise of this type.
 - Mean response time (for correct responses) - per operation
 
-Example for the default version of the test can be found here: yardengliksman.github.io/BGU-MF/
+Example for the default version of the test can be found here: https://yardengliksman.github.io/BGU-MF/
 
 **Instructions for participants:** "answer as accurately and quickly as possible".
 
 **Citation:**
 
-Gliksman, Y., Berebbi, S., Hershman, R., & Henik, A. (2020). BGU-MF: Ben-Gurion University Math Fluency Test. Manuscript under review.
+Gliksman, Y., Berebbi, S., Hershman, R., & Henik, A. (2022). BGU-MF: Ben-Gurion University Math Fluency Test. Applied Cognitive Psychology. 36(2), 293-305. https://doi.org/10.1002/acp.3918
+
+
